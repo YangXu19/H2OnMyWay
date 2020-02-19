@@ -1,0 +1,14 @@
+h1{
+    color:white;
+    font-family: "Century Gothic";
+    text-decoration: underline;
+    font-size: 200%;
+    text-align: center;
+}
+img{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:2px;
+    margin-bottom:2px;
+}
